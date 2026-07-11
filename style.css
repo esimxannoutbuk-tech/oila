@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cantainer{
+    width: 1535px;
+    margin: 0 auto;
+}
+
+nav{
+   
+    height: 70px;
+    background-color: black;
+    color: #fff;
+    display: flex;
+}
+
+.logo{
+    color: #fff;
+    text-decoration: none;
+}
+.nav-text-1{
+    padding-top: 13px;
+    margin-left: 250px; 
+}
+
+
+.links{
+display: flex;
+gap: 50px;
+padding-top: 24px;
+margin-left: 450px;
+  list-style-type: none;
+}
+
+
+.link-1{
+    color: #8c8c8c;
+    text-decoration: none;
+     list-style-type: none;
+  font-size: 18px;
+
+}
+.link-1-1{
+    color: #3d76f2;
+    text-decoration: none;
+     list-style-type: none;
+  font-size: 18px;
+
+}
+.link{
+    text-decoration: none;
+      transition: all .2s linear;
+}
+.link:hover{
+ transform: scale(1.1) ;
+  
+ cursor: pointer;
+
+}
+.link-1:hover{
+    color: #3d76f2;
+}
+.hr-1{
+    border: 0.5px solid #8c8c8c;
+}
+
+
+
+
+
+
+
+
+
+
+main{
+    width: 1521px;
+    height: 900px;     
+    background-color: rgb(2, 1, 12);                                 
+}
+
+.mein-2{
+    width: 1000px;
+     padding-top: 100px;
+    margin-left: 250px;   
+    display: flex;
+    
+}
+
+
+.me-text-1{
+color: #3d76f2 ;
+font-size: 20px;
+cursor: pointer;
+}
+.me-text-2{
+    color: #fff;
+    padding-top: 35px;
+    font-size: 50px;
+    cursor: pointer;
+}
+.me-text-3{
+    color: #8c8c8c;
+    padding-top: 30px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.boglanish-1{
+    width: 120px;
+    height: 50px;
+    background-color: #3d76f2;
+  border-radius: 15px;
+  padding-top: 13px;
+}
+.boglanish-2{
+    color: #fff;
+    text-decoration: none;
+    margin-left: 25px;
+   
+}
+
+.men{
+    width: 300px;
+    height: 300px;
+   margin-left: 100px;
+   border-radius: 20px;
+}
+
+
+
+
+.mein-3{
+    padding-top: 150px;
+    margin-left: 250px;
+}
+
+.in-1{
+cursor: pointer;
+    color: #fff;
+}
+.in-2{
+    padding-top: 50px;
+    color:#8c8c8c ;
+    font-size:17px;
+    cursor: pointer;
+}
+
+.box{
+    padding-top: 40px;
+    
+}
+.box-btn{
+    width: 70px;
+    height: 30px;
+    background-color: rgb(50, 50, 50);
+    color: #3d76f2;
+    border-radius: 10px;
+    
+}
+
+footer{
+    height: 50px;
+    background-color: rgb(2, 1, 12);  
+    color: #8c8c8c;
+   
+                                   
+}
+.footer-1{
+margin-left: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* oila */
+
+section{
+    width: 1521px;
+    height: 1440px;
+    padding-left: 250px;
+    background-color: rgb(2, 1, 12) ;
+
+}
+
+.section-1{
+    width: 1040px;
+    height: 1370px;
+  
+}
+.oila-text-1{
+    padding-top: 100px;
+    color: #fff;
+}
+.oila-img{
+    width: 1035px;
+    height: 350px;
+    padding-top: 50px;
+    border-radius: 20px;
+}
+
+.cardlar{
+    padding-top: 50px;
+    display: flex;
+    gap: 60px;
+    
+}
+.card-1{
+    width: 490px;
+    height: 170px;
+    border-radius: 20px;
+    background-color: black;
+    display: flex;
+  
+}
+.dad-1{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.card-t-1{
+    color: #fff;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.card-t-2{
+    color: #3d76f2;
+     margin-left: 20px;
+    padding-top: 10px;
+}
+.card-t-3{
+    color: #8c8c8c;
+  margin-left: 20px;
+    padding-top: 10px;
+}
