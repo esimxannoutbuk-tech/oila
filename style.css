@@ -78,7 +78,7 @@ margin-left: 450px;
 
 main{
     width: 1521px;
-    height: 900px;     
+    height: 950px;     
     background-color: rgb(2, 1, 12);                                 
 }
 
@@ -270,3 +270,175 @@ section{
   margin-left: 20px;
     padding-top: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* loyixa */
+.may{
+ width: 1521px;
+    height: 1970px;     
+    background-color: rgb(2, 1, 12); 
+}
+.lo-text{
+color: #fff;
+margin-left: 250px;
+padding-top: 100px;
+font-size: 35px;
+}
+
+
+.loy-cardlar{
+    width: 1030px;
+    height: 1000px;
+    
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.car-1-1{
+    width: 1030px;
+    height: 300px;
+    border: 2px solid #3d76f2;
+    border-radius: 20px;
+    display: flex;
+    background-color:rgb(11, 7, 26) ;
+}
+
+.car-img{
+  width: 500px;
+  height: 295px; 
+  border-radius: 20px; 
+}
+
+.car-textlar{
+    color: #FFF;
+    margin-left: 40px;
+}
+.car-1{
+    margin-top: 40px;
+}
+
+.loy-btn{
+    width: 120px;
+    height: 50px;
+    border: 2px solid #3d76f2;
+    background-color: rgb(11, 7, 26);
+    border-radius: 15px;
+    color:blue;
+    font-size: 17px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* boglanish */
+
+
+
+
+.boglanish{
+    width: 1521px;
+    height: 654px;     
+    background-color: rgb(2, 1, 12);
+}
+
+.boglanish-2{
+    margin-left: 250px;
+    padding-top: 60px;
+}
+
+.email{
+    color: #3d76f2;
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.email-2{
+    padding-top: 15px;
+}
+
+
+.bog-sayt{
+    display: flex;
+    gap: 150px;
+}
+
+.manzil-jonatish{
+      padding-top: 60px;
+}
+
+
+
+label {
+    display: block;
+    color: #e5e7eb;
+    font-size: 15px;
+  }
+
+input,textarea{
+    width: 500px;
+    background: #14161e;
+    border: 1px solid #262936;
+    border-radius: 10px;
+    padding: 16px 18px;
+    color: #f1f1f1;
+    font-size: 15px;
+  }
+
+ 
+
+.btn-1{
+    width: 100%;
+    background: #4f9dff;
+    border-radius: 10px;
+    padding: 16px;
+    color: #0a0b10;
+    font-size: 16px;
+    cursor: pointer;
+    transition: linear .2s ease;
+  }
+
+  .btn-1:hover {
+    background: #3b82f6;
+  }
