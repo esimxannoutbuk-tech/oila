@@ -157,14 +157,14 @@ footer {
 
 section {
   width: 1521px;
-  height: 1500px;
+  height: 1000px;
   padding-left: 250px;
   background-color: rgb(2, 1, 12);
 }
 
 .section-1 {
   width: 1040px;
-  height: 1370px;
+  height: 1000px;
 }
 .oila-text-1 {
   padding-top: 100px;
@@ -222,7 +222,7 @@ section {
 /* loyixa */
 .may {
   width: 1521px;
-  height: 1800px;
+  height: 1500px;
   background-color: rgb(2, 1, 12);
 }
 .lo-text {
@@ -276,6 +276,10 @@ section {
   border-radius: 15px;
   color: blue;
   font-size: 17px;
+}
+.loy-btn-1{
+  color: blue;
+  text-decoration: none;
 }
 
 /* boglanish */
